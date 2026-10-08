@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daisypolishcleaning.co.uk/sitemap.xml
